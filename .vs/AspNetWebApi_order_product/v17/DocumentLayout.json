@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\AspNetWebApi_order_product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\storage\\rdborderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:storage\\rdborderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\storage\\rdborderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:storage\\rdborderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\controllers\\orderproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:controllers\\orderproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\service\\iorderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:service\\iorderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\storage\\rdbproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:storage\\rdbproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\storage\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:storage\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|d:\\github\\aspnetwebapi_order_product\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675BECA0-48A4-4D86-B855-64B4B3EBCC43}|AspNetWebApi_order_product.csproj|solutionrelative:entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 253,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:26:44.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Storage\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Storage\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Storage\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Storage\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:18:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderProductService.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Service\\IOrderProductService.cs",
+              "RelativeDocumentMoniker": "Service\\IOrderProductService.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Service\\IOrderProductService.cs",
+              "RelativeToolTip": "Service\\IOrderProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:18:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RdbOrderProductService.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Storage\\RdbOrderProductService.cs",
+              "RelativeDocumentMoniker": "Storage\\RdbOrderProductService.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Storage\\RdbOrderProductService.cs",
+              "RelativeToolTip": "Storage\\RdbOrderProductService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:17:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Service\\IOrderService.cs",
+              "RelativeToolTip": "Service\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:09:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RdbProductService.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Storage\\RdbProductService.cs",
+              "RelativeDocumentMoniker": "Storage\\RdbProductService.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Storage\\RdbProductService.cs",
+              "RelativeToolTip": "Storage\\RdbProductService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:13:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:13:12.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RdbOrderService.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Storage\\RdbOrderService.cs",
+              "RelativeDocumentMoniker": "Storage\\RdbOrderService.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Storage\\RdbOrderService.cs",
+              "RelativeToolTip": "Storage\\RdbOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:53:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProductController.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Controllers\\OrderProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderProductController.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Controllers\\OrderProductController.cs",
+              "RelativeToolTip": "Controllers\\OrderProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:21:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:12:29.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Github\\AspNetWebApi_order_product\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Entity\\Order.cs",
+              "ToolTip": "D:\\Github\\AspNetWebApi_order_product\\Entity\\Order.cs",
+              "RelativeToolTip": "Entity\\Order.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:08:27.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

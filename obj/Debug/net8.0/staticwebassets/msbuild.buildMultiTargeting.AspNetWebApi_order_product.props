@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspNetWebApi_order_product.props" />
+</Project>
